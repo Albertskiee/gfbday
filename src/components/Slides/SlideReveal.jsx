@@ -60,7 +60,7 @@ const SlideReveal = () => {
                 #1 Person
             </div>
             
-            <p className="text-white/80 font-bold tracking-widest uppercase text-sm mb-2">Top Artist</p>
+            <p className="text-white/80 font-bold tracking-widest uppercase text-sm mb-2">Top Barca Fans</p>
             <h1 className="text-5xl font-black-wrapped text-tracking-tighter leading-[0.9] mb-4 text-white drop-shadow-2xl">
                 {content.topArtist.caption}
             </h1>
