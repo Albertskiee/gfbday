@@ -36,8 +36,8 @@ export const content = {
   },
   futureQueue: [
     { title: "Ulang Tahun Pacar bondol Kesayangan", artist: "Sedang Berlangsung", isPlaying: true },
-    { title: "Ngeramen abis pulang dari padang🍜", artist: "Wishlist ultah" },
-    { title: "Travelling Berdua! kemana yah enaknya ", artist: "from 2025 Wishlist" },
+    { title: "Ngeramen abis dari padang🍜", artist: "Wishlist ultah" },
+    { title: "Travelling Berdua!⛱️ ", artist: "from 2025 Wishlist" },
     { title: "Wisuda Bareng!! AAMINN", artist: "2027 Wishlist" },
   ],
   topArtist: {

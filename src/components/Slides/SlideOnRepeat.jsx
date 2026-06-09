@@ -18,7 +18,7 @@ const SlideOnRepeat = () => {
             animate={{ opacity: 1, y: 0 }}
             className="text-lg md:text-xl font-bold uppercase tracking-widest text-center text-white/90"
          >
-             If moment can replayed...
+             If moment can ...
          </motion.h2>
 
          {/* Card - flexible height but distinct aspect ratio looking */}

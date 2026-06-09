@@ -23,7 +23,7 @@ const SlideOutro = () => {
             transition={{ delay: 0.6 }}
             className="flex flex-col items-center"
           >
-            <h2 className="text-3xl md:text-4xl font-black-wrapped text-tracking-tighter mb-4 text-white">Happy Birthday Adekk Bondol Kesayangann❤️ 🤭!</h2>
+            <h2 className="text-3xl md:text-4xl font-black-wrapped text-tracking-tighter mb-4 text-white">Happy Birthday Adekk Bondol Kesayangann❤️🤭!</h2>
             <p className="text-sm md:text-base text-gray-300 italic max-w-md">
     "Enjoy your birthday ya sayang panjang umur sehat selalu aaaminn!! Abang sayang sama adeee ,mwahh 🤍"
   </p>
